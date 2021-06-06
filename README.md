@@ -1,1 +1,3 @@
 # Emma-and-Lily-s-Game
+
+My two nieces became very interested in computer programming once I was able to show them the small projects I have done for school. They requested that I created a game for them to enjoy. I took this opportunity to contribute to their education, by creating a math game. This math game will provide ten random math problems for Lily or Emma to answer. The math level will depend on the if Emma or Lily is playing the game. If they enter the incorrect answer, they will be notified immediately and will be provided the correct answer as well. Once they have answered all ten problems, the game will let them know the total answer correct out of ten.
